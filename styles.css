@@ -1,6 +1,6 @@
 /* HTML Tags */
 body {
-    width: 1690px;
+    width: 1675px;
 }
 
 footer {
@@ -9,7 +9,6 @@ footer {
 
 /* IDs */
 #wrapper {
-    width: 1690px;
     margin-top: 10px;
     background-color: #f3f3f3 !important;
 }

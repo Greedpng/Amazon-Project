@@ -1,6 +1,13 @@
 /* HTML Tags */
+@viewport {
+    width: extend-to-zoom 480px;
+    min-zoom: 0.25;
+    max-zoom: 5;
+}
+
 body {
     width: 1675px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 footer {

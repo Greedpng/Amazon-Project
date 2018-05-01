@@ -7,6 +7,10 @@ footer {
     margin-top: 50px;
 }
 
+footer img {
+    width: 1675;
+}
+
 /* IDs */
 #wrapper {
     margin-top: 10px;
